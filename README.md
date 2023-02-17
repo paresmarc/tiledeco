@@ -12,7 +12,7 @@ Challenge I: Tile Deco
 Caglar, Ahmed, Marc
 ==========================================
 
-**A DIY ToolKit to design and decorate tiles and build unique pattern combinations** 
+**A DIY ToolKit to design and decorate tiles and build unique pattern combinations**
 **"Playing in the physical and converting it to the digital"**
 
 0. [**Project Alignment**](#0-Project-alignment)
@@ -24,7 +24,7 @@ Caglar, Ahmed, Marc
 
 ![](https://drive.google.com/file/d/1wpDhg9p6dvsCqUpxViq0IEqyqHLA8FNB/view)
 
-We started sharing our interests and what fields we wanted to investigate to be able to implement them to our interventions. This three 
+We started sharing our interests and what fields we wanted to investigate to be able to implement them to our interventions. This three
 
 ## #1 Project Development
 
@@ -39,5 +39,3 @@ We started sharing our interests and what fields we wanted to investigate to be 
 - building pattern
 
 <iframe src="https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<iframe src="https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/preview" width="640" height="480" allow="autoplay"></iframe>
