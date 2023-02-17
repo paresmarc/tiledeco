@@ -9,6 +9,7 @@ title: MDEF 22/23 - Tile Deco
 
 
 Challenge I: Tile Deco
+
 Caglar, Ahmed, Marc
 ==========================================
 
@@ -39,3 +40,7 @@ We started sharing our interests and what fields we wanted to investigate to be 
 - building pattern
 
 <iframe src="https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<iframe src="https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjh56gf-m3NotTWq_R_c8rk6aud9Ug9jL5vrxLU43EQNfZGjJ0bgGY2oozJqKkkmQxA7u83xC_7V8h/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
