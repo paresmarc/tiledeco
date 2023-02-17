@@ -70,6 +70,7 @@ We investigated some projects to take a look of what is already done and what we
 ![](tilestrans.png)
 
 First Iteration
+
 ![](images/firstpattern.png)
 
 
@@ -87,5 +88,8 @@ First Iteration
 
 
 [Design Process Presentation](https://www.canva.com/design/DAFavYB6CeY/SDjOxHvMFFO4icoWGjks5A/view)
+
+![](images/presentation.png)
+
 
 [squeege video](https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/view)
