@@ -38,7 +38,7 @@ We started sharing our interests and what fields we wanted to investigate to be 
 - tile design
 - building pattern
 
-<img src="https://paresmarc.github.io/images/tiledeco/interests.jpg" width="75%" height="75%"/>
+<img src="https://paresmarc.github.io/tiledeco/images/interests.jpg" width="75%" height="75%"/>
 
 <iframe src="https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
