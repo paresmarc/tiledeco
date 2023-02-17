@@ -42,4 +42,4 @@ We started sharing our interests and what fields we wanted to investigate to be 
 ![](images/interests.jpg)
 
 
-[video](images/sq.MOV)
+[video](https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/view)
