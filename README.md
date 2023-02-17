@@ -134,7 +134,7 @@ A "DIY Tool Kit" to decorate tiles and build unique patterns and combinations.
 8. **Building pattern**
 
 ![](images/process/patt1.heic)
-![](images/process/patt2.heic)
+![](images/process/patt2.jpg)
 ![](images/process/patt3.heic)
 
 
