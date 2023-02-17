@@ -32,4 +32,5 @@ Challenge I: Tile Deco
 
 ## #0 Project alignment
 
-![](https://drive.google.com/drive/u/3/folders/1CSxtDUrhZJaVuM1qkLCc8lgHXq5NlI9E)
+![](https://drive.google.com/file/d/1wpDhg9p6dvsCqUpxViq0IEqyqHLA8FNB/view)
+
