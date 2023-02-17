@@ -38,6 +38,6 @@ We started sharing our interests and what fields we wanted to investigate to be 
 - tile design
 - building pattern
 
-<iframe src="[https://docs.google.com/presentation/d/e/2PACX-1vRjh56gf-m3NotTWq_R_c8rk6aud9Ug9jL5vrxLU43EQNfZGjJ0bgGY2oozJqKkkmQxA7u83xC_7V8h/embed?start=false&loop=false&delayms=3000](https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/view)" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/preview" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-
+<iframe src="https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/preview" width="640" height="480" allow="autoplay"></iframe>
