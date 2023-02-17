@@ -15,11 +15,11 @@ Caglar / Ahmed / Marc
 **A DIY ToolKit to design and decorate tiles and build unique pattern combinations**
 **"Playing in the physical and converting it to the digital"**
 
-0. [**Project Alignment**](#0-Project-alignment)
-1. [**Project Development**](#1-Project-development)
-2. [**Final Product**](#2-Rethink-and-reconnect)
+1. [**Project Alignment**](#1-Project-alignment)
+2. [**Project Development**](#2-Project-development)
+3. [**Final Product**](#3-Rethink-and-reconnect)
 
-## #0 Project Alignment
+## #1 Project Alignment
 
 We started sharing our interests and what fields we wanted to investigate to be able to implement them to our interventions. This three circles show the intersection between our main interests.
 
@@ -74,22 +74,68 @@ First Iteration
 ![](images/firstpattern.png)
 
 
-## #1 Project Development
+## #2 Project Development
 
 **Design Process**
-- grid board
-- geometric pieces
-- pattern design
-- photo digitalisation (vector)
-- vinyl cutting
-- stencil
-- tile design
-- building pattern
+1. Grid board
+2. Geometric pieces
+3. Pattern design
+4. Photo digitalisation (vector)
+5. Vinyl cutting
+6. Stencil
+7. Tile production
+8. Building pattern
 
 
 [Design Process Presentation](https://www.canva.com/design/DAFavYB6CeY/SDjOxHvMFFO4icoWGjks5A/view)
 
 ![](images/presentation.png)
 
+1. **Grid Board**
+A "DIY Tool Kit" to decorate tiles and build unique patterns and combinations.  
+
+![](images/process/griddesign.heic)
+![](images/process/magnettest.heic)
+![](images/process/gridmagnets.heic)
+![](images/process/vinylgrid2.heic)
+![](images/process/vinylgrid.heic)
+
+2. **Geometric pieces**
+
+![](images/process/design1.heic)
+![](images/process/design2.heic)
+
+3. **Tile design**
+
+![](images/process/tiledesign.HEIC)
+![](images/process/bigpattern.png)
+
+4. **Photo digitalisation (vector)**
+
+![](images/process/tilephoto.heic)
+![](images/process/vectorizer.png)
+
+5. **Vinyl cutting**
+
+![](images/process/vinylcutter.heic)
+![](images/process/stencil.heic)
+
+6. **Stencil**
+
+![](images/process/stencil.heic)
+![](images/process/stencilsq.heic)
+![](images/process/stencil2.heic)
+
+
+7. **Tile Production**
 
 [squeege video](https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/view)
+
+8. **Building pattern**
+
+![](images/process/patt1.heic)
+![](images/process/patt2.heic)
+![](images/process/patt3.heic)
+
+
+## #3 Final Product
