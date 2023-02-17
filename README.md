@@ -40,6 +40,8 @@ We started sharing our interests and what fields we wanted to investigate to be 
 
 <img src="https://paresmarc.github.io/tiledeco/images/interests.jpg" width="75%" height="75%"/>
 
+![](images/interests.jpg)
+
 <iframe src="https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/view" width="100%" height="480" allow="autoplay"></iframe>
 
 [video](../images/interests.jpg)
