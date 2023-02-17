@@ -41,14 +41,20 @@ Stage 3 - Public installation
 
 **References**
 We investigated some projects to take a look of what is already done and what we can contribute on. Also looking in different fields made us get inspired and develop our idea. Here we link some interesting projects:
-[tangram](https://en.wikipedia.org/wiki/Tangram)
-[bussoga](https://www.bussoga.com/en/tiling/)
+[Tangram](https://en.wikipedia.org/wiki/Tangram)
+
+[Bussoga](https://www.bussoga.com/en/tiling/)
+
 [Letters, Words, Numbers](https://www.instagram.com/p/CnM4iamOt5A/)
+
 [Cèrcol](https://www.instagram.com/p/CEww6dRKY10/)
+
 [Socialist Modernism in Germany](https://www.instagram.com/p/CgcPF26MuKQ/)
+
 [The key is to tell the tile setter not to worry about it - Jeff Shelton](https://www.instagram.com/p/CkeAuX7jl4E/)
 
 ![](Ltile.png) ![](tilestrans.png)
+
 ![](images/firstpattern.png)
 
 
@@ -63,7 +69,6 @@ We investigated some projects to take a look of what is already done and what we
 - stencil
 - tile design
 - building pattern
-
 
 
 [squeege video](https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/view)
