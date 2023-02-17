@@ -42,8 +42,8 @@ Stage 3 - Public installation
 **References**
 We investigated some projects to take a look of what is already done and what we can contribute on. Also looking in different fields made us get inspired and develop our idea. Here we link some interesting projects:
 
-[Tangram](https://en.wikipedia.org/wiki/Tangram | width=100)
-![](images/tangram.jpeg)
+[Tangram](https://en.wikipedia.org/wiki/Tangram)
+![](images/tangram.jpeg | width=100)
 
 [Bussoga](https://www.bussoga.com/en/tiling/)
 ![](images/bussoga.jpeg)
