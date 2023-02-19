@@ -98,29 +98,35 @@ Tile-Deco is a concept of grid that made of acrylic and magnets and has geometri
 ![](images/presentation.png)
 
 1. **Grid Board**
+
 A "DIY Tool Kit" to decorate tiles and build unique patterns and combinations.  
 
 Through the design process of the grid board we tried to prevent from shades and reflections which ruins the quality of the photo-digitalisation process of the vinyl. But, as the acrylic thickness and magnet sizes are defined, we couldn’t avoid from that. On the other hand, we covered the acrylic surfaces with a mat vinyl to prevent the reflections. At least we succeeded to get rid of the reflections to enhance the quality of the photo-digitalisation process. But, of course the transfer of the vinyl on the grid board was not easy, we were not satisfied with the first attempt and for the second one magnets destroyed the grid engraved vinyl and fortunately we satisfied with the third vinyl design.
 
-![](images/design/griddesign.jpeg)
-![](images/design/magnettest.jpeg)
-![](images/design/gridmagnets.jpeg)
-![](images/design/vinylgrid2.jpeg)
-![](images/design/vinylgrid.jpeg)
+![](images/design/griddesign.jpg)
+
+![](images/design/magnettest.jpg)
+
+![](images/design/gridmagnets.jpg)
+
+![](images/design/vinylgrid2.jpg)
+
+![](images/design/vinylgrid.jpg)
 
 2. **Geometric pieces**
 
 Another problem that we faced with was the unsuitability of some geometric pieces which helps to generate the tile decoration design. Some geometric items has only a single magnet on them and this cause a unstable position on the gird. (During the presentation one of the constructive critic was to make the grid board double size in order tom prevent this problem, this could be a perfect solution for the problem)
 
-![](images/design/design1.jpeg)
-![](images/design/design2.jpeg)
+![](images/design/design1.jpg)
+
+![](images/design/design2.jpg)
 
 3. **Tile design**
 
 The next step was making the patterns aligned with the photo-digitalisation process. As we took some tile decoration samples photos and we also worked on the various patterns options on 2D softwares. We used Illustrator and Inkscape to generate some patterns.
 
+![](images/design/tiledesign.jpg)
 
-![](images/design/tiledesign.jpeg)
 ![](images/design/bigpattern.png)
 
 4. **Photo digitalisation (vector)**
@@ -133,32 +139,36 @@ Once we obtained the outlines, it was a breeze to scale them accordingly (in our
 
 Even though the process took us about an hour to complete, we are continually looking for ways to simplify the physical-to-digital step process so that anyone can do it from the comfort of their home. Furthermore, we aim to develop something that will enable users to visualize their patterns more quickly after getting aggregated.
 
-![](images/design/tilephoto.jpeg)
+![](images/design/tilephoto.jpg)
+
 ![](images/design/vectorizer.png)
 
 5. **Vinyl cutting**
 
-![](images/design/vinylcutter.jpeg)
-![](images/design/stencil.jpeg)
+![](images/design/vinylcutter.jpg)
+
+![](images/design/stencil.jpg)
 
 6. **Stencil**
 
-![](images/design/stencil.jpeg)
-![](images/design/stencilsq.jpeg)
-![](images/design/stencil2.jpeg)
+![](images/design/stencil.jpg)
+
+![](images/design/stencilsq.jpg)
+
+![](images/design/stencil2.jpg)
 
 
 7. **Tile Production**
 
-[squeege video](https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/view)
+  [squeege video](https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/view)
 
 8. **Building pattern**
 
-![](images/design/patt1.jpeg)
+![](images/design/patt1.jpg)
 
-![](images/design/patt2.jpeg)
+![](images/design/patt2.jpg)
 
-![](images/design/patt3.jpeg)
+![](images/design/patt3.jpg)
 
 
 ## #3 Final Product
