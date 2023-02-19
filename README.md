@@ -94,37 +94,37 @@ First Iteration
 1. **Grid Board**
 A "DIY Tool Kit" to decorate tiles and build unique patterns and combinations.  
 
-![](images/process/griddesign.jpg)
-![](images/process/magnettest.jpg)
-![](images/process/gridmagnets.jpg)
-![](images/process/vinylgrid2.jpg)
-![](images/process/vinylgrid.jpg)
+![](images/process/griddesign.jpeg)
+![](images/process/magnettest.jpeg)
+![](images/process/gridmagnets.jpeg)
+![](images/process/vinylgrid2.jpeg)
+![](images/process/vinylgrid.jpeg)
 
 2. **Geometric pieces**
 
-![](images/process/design1.jpg)
-![](images/process/design2.jpg)
+![](images/process/design1.jpeg)
+![](images/process/design2.jpeg)
 
 3. **Tile design**
 
-![](images/process/tiledesign.jpg)
+![](images/process/tiledesign.jpeg)
 ![](images/process/bigpattern.png)
 
 4. **Photo digitalisation (vector)**
 
-![](images/process/tilephoto.jpg)
+![](images/process/tilephoto.jpeg)
 ![](images/process/vectorizer.png)
 
 5. **Vinyl cutting**
 
-![](images/process/vinylcutter.jpg)
-![](images/process/stencil.jpg)
+![](images/process/vinylcutter.jpeg)
+![](images/process/stencil.jpeg)
 
 6. **Stencil**
 
-![](images/process/stencil.jpg)
-![](images/process/stencilsq.jpg)
-![](images/process/stencil2.jpg)
+![](images/process/stencil.jpeg)
+![](images/process/stencilsq.jpeg)
+![](images/process/stencil2.jpeg)
 
 
 7. **Tile Production**
@@ -133,11 +133,11 @@ A "DIY Tool Kit" to decorate tiles and build unique patterns and combinations.
 
 8. **Building pattern**
 
-![](images/process/patt1.jpg)
+![](images/process/patt1.jpeg)
 
-![](images/process/patt2.jpg)
+![](images/process/patt2.jpeg)
 
-![](images/process/patt3.jpg)
+![](images/process/patt3.jpeg)
 
 
 ## #3 Final Product
