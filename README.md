@@ -117,7 +117,9 @@ Tolerance magnet test — laser cut machine
 
 2. **Geometric pieces**
 
-Another problem that we faced with was the unsuitability of some geometric pieces which helps to generate the tile decoration design. Some geometric items has only a single magnet on them and this cause a unstable position on the gird. (During the presentation one of the constructive critic was to make the grid board double size in order tom prevent this problem, this could be a perfect solution for the problem)
+Another problem that we faced with was the unsuitability of some geometric pieces which helps to generate the tile decoration design. Some geometric items has only a single magnet on them and this cause a unstable position on the gird. (During the presentation one of the constructive critic was to make the grid board double size in order tom prevent this problem, this could be a perfect solution for the problem).
+
+One of the discoveries was how to fix the magnets in an efficient way without wasting them. We made different holes in the acrylic board searching for the fittest size. Then we used vinyl to cover each side of the acrylic, so the magnets stay in place, but if you want to disassemble the pieces, you can take it off easily.
 
 ![](images/design/design1.jpg)
 
