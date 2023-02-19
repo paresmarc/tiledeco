@@ -105,6 +105,8 @@ Through the design process of the grid board we tried to prevent from shades and
 
 ![](images/design/griddesign.jpg)
 
+Tolerance magnet test — laser cut machine
+
 ![](images/design/magnettest.jpg)
 
 ![](images/design/gridmagnets.jpg)
@@ -147,11 +149,19 @@ Even though the process took us about an hour to complete, we are continually lo
 
 5. **Vinyl cutting**
 
+To make the stencil, we used a vinyl cutter. Through the Rhino file, we were able to cut the shapes. One thing to keep in mind is that you have to invert the image before cutting to be able to get your original shape on the tiles.
+
+With the vinyl cutter, you have to be sure to set the precise distance of the cutter to be able to cut the vinyl but not the plastic layer, so the shape is kept in place. Once we had the vinyl cut, we peeled with tweezers the shapes that would have to be covered with ink.
+
 ![](images/design/vinylcutter.jpg)
 
 ![](images/design/stencil.jpg)
 
 6. **Stencil**
+
+To transfer the shape to the tiles, first we placed the stencil on the screen printing frame. With tape, we covered every hole that remained in the sides of the vinyl, so the ink only passes through the precise holes.
+
+Then we placed the tiles, matching the vinyl. Once it is in place, we mix the ink with a bit of water to make it more liquid and place it in the frame. After the squeeze, we pressed the ink through the frame, covering the entire tile.
 
 ![](images/design/stencil.jpg)
 
@@ -165,6 +175,8 @@ Even though the process took us about an hour to complete, we are continually lo
   [squeege video](https://drive.google.com/file/d/142wLPfG5fM5Mu-XErmbFKV-Zxnlya-bf/view)
 
 8. **Building pattern**
+
+With a single tile design you can create myriad pattern designs.
 
 ![](images/design/patt1.jpg)
 
