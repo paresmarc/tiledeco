@@ -139,9 +139,11 @@ Once we obtained the outlines, it was a breeze to scale them accordingly (in our
 
 Even though the process took us about an hour to complete, we are continually looking for ways to simplify the physical-to-digital step process so that anyone can do it from the comfort of their home. Furthermore, we aim to develop something that will enable users to visualize their patterns more quickly after getting aggregated.
 
-![](images/design/tilephoto.jpg)
+![](images/design/tilephoto.PNG)
 
-![](images/design/vectorizer.png)
+![](images/design/contrast.PNG)
+
+![](images/design/vectorizer.PNG)
 
 5. **Vinyl cutting**
 
