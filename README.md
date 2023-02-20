@@ -189,6 +189,9 @@ With a single tile design you can create myriad pattern designs.
 
 ## #3 Final Product
 
+![](images/design/kit2.jpg)
+
+![](images/design/stencilsq.jpg)
 
 **Conclusion**
 
